@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/chetan/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_90aef86ad35d0646ff3a78bbe2d2982674e68744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_89bfd38929e5811740161109d515bbb54019eb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_80ed0599f92b217efa8ccd5ead2cade73d059211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_394231a91b59e52554f650c3c96c27caa6ca0c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cd74ccae7602287a7d8e974c42cba6989f13c430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.devs/acr/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eba91a56fc2ea7123fc71abec010c8dbe7dcdacb">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/com.devs-acr-1.0.1_58bb79327df22c85b2470e9fb6e73f0688a8c6b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/chetan/androidexample/AutoCrashReporter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d65e57ff24be1df4dfff2f72a5f2bc4cc21d3c87.jar" />
+    </item>
+
+</items>
